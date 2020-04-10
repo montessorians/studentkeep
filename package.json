@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/montessorians/studentkeep/issues"
   },
-  "homepage": "https://github.com/montessorians/studentkeep#readme"
+  "homepage": "https://github.com/montessorians/studentkeep#readme",
+  "devDependencies": {
+    "electron": "^8.2.1"
+  }
 }
